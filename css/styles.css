@@ -341,7 +341,7 @@ input::-webkit-inner-spin-button {
     line-height: 101px;
   }
   .hero-title span {
-    font-size: 29;
+    font-size: 29px;
   }
   .title {
     margin-bottom: 40px;
@@ -380,5 +380,24 @@ input::-webkit-inner-spin-button {
 
   .trip__slider {
     display: none;
+  }
+  .hotel__img {
+    display: none;
+  }
+  .price__img1 {
+    display: none;
+  }
+  .price__img2 {
+    display: none;
+  }
+  .price__img3 {
+    display: none;
+  }
+  .price__subtitl {
+    display: none;
+  }
+
+  .hotel__title {
+    max-width: 190px;
   }
 }
